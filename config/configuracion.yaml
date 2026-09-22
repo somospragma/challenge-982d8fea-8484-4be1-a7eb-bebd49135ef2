@@ -1,0 +1,6 @@
+image_id: 'ami-0abcdef1234567890'
+instance_type: 't2.micro'
+bucket_name: 'mi-bucket-de-almacenamiento'
+instance_ids:
+  - 'i-0123456789abcdef0'
+new_instance_type: 't2.large'
